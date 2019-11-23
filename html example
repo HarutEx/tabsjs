@@ -1,0 +1,8 @@
+<div class="info-header">
+       <!-- Tab name -->
+<div class="info-header-tab">tab name</div>
+	</div>
+      <!-- Tab content -->
+ <div class="info-tabcontent fade">
+      here can be text content, photos etc.
+				</div>
